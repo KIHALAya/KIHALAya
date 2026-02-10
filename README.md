@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/ec/50/dd/ec50dd413ce58de51aa4c6de777c45.jpg" width="200"/>
+<img src="[https://i.pinimg.com/originals/ec/50/dd/ec50dd413ce58de51aa4c6de777c45.jpg](https://in.pinterest.com/pin/9922061674367080/)" width="200"/>
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="30"/> Hi, I'm Aya 🖤
