@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://i.pinimg.com/originals/ec/50/dd/ec50dd413ce58de51aa4c6de777c45.jpg](https://in.pinterest.com/pin/9922061674367080/)" width="200"/>
+<img src="./kuromi.jpg" width="200"/>
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="30"/> Hi, I'm Aya 🖤
@@ -109,7 +109,7 @@ class Aya:
 </div>
 
 ---
-
+<!--
 ## 💼 Experience Highlights
 
 🎯 **Agentic AI Engineer** @ Mad Agents *(June 2025 - Aug 2025)*
@@ -128,15 +128,16 @@ class Aya:
 - Freelance automation solutions & AI implementation
 
 ---
+-->
 
 ## 🌸 Reach Out
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=google-chrome&logoColor=black)](https://YOUR_PORTFOLIO)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-kihal/)
+[![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kihalaya00@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=google-chrome&logoColor=black)](https://kihalaya.github.io/portfolio/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YuruKoda)
 
 </div>
 
@@ -159,7 +160,7 @@ class Aya:
 
 **💖 Let's build something amazing together! 💖**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff69b4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=KIHALAya&color=ff69b4&style=for-the-badge)
 
 </div> 
 
