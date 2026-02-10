@@ -1,21 +1,7 @@
 <div align="center">
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣤⣤⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀
-⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀
-⠀⢰⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⡆⠀
-⠀⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⠀
-⢸⣿⣿⣿⣿⣿⣿⠁⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⠀⠈⣿⣿⣿⣿⣿⣿⡇
-⢸⣿⣿⣿⣿⣿⣿⠀⠿⠀⠀⣀⣀⣀⣀⣀⠀⠀⠿⠀⠀⣿⣿⣿⣿⣿⣿⡇
-⠘⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⠃
-⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣤⣤⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀
-⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀
-⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀
-⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠈⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠁⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
+
+<img src="https://i.pinimg.com/originals/ec/50/dd/ec50dd413ce58de51aa4c6de777c45.jpg" width="200"/>
+
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="30"/> Hi, I'm Aya 🖤
 
@@ -33,16 +19,15 @@ class Aya:
     def __init__(self):
         self.pronouns = "she/her"
         self.location = "Morocco 🇲🇦"
-        self.education = ["Engineering Student @ FST", "Stanford AI/ML in Medicine"]
-        self.started_coding_at = 15
-        self.current_focus = ["AI Agents", "MLOps", "Real-time Data Pipelines"]
-        self.vibe = "automating the right way, not just for the sake of it ✨"
+        self.education = ["Engineering Student @ ALX"]
+        self.current_focus = ["AI Agents", "MLOps", " Data Pipelines"]
+        self.vibe = "Tebki ela mha ✨"
         
     def current_status(self):
         return {
             "working_on": "AI-powered research assistant platform",
             "learning": "Advanced agentic workflows & LangGraph orchestration",
-            "superpower": "Time management (exams + projects + clients = daily workout)",
+            "superpower": "IDGF",
         }
 ```
 
@@ -98,11 +83,11 @@ class Aya:
 
 <div align="center">
   
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff1493&border_color=ff69b4)
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIHALAya&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&icon_color=ff1493&border_color=ff69b4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&border_color=ff69b4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIHALAya&layout=compact&theme=radical&bg_color=0d1117&title_color=ff69b4&text_color=ffffff&border_color=ff69b4)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&background=0d1117&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&border=ff69b4)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KIHALAya&theme=radical&background=0d1117&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&border=ff69b4)
 
 </div>
 
